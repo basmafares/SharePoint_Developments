@@ -26,7 +26,7 @@ function getListItems(siteURL,listName) {
             for (var i = 0; i < distinctArray.length; i++) {
                 var itemId = distinctArray[i].ID;
                 var user = distinctArray[i].RequestedBy;
-                addUsersToGroup(user, 2103);
+                
             }
 
 
